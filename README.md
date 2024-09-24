@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# HANGMAN - React + TypeScript + Vite
+
+<img width="1792" alt="Ekran Resmi 2024-09-24 15 27 15" src="https://github.com/user-attachments/assets/cf425d12-b320-406d-9649-6771f609fd0c">
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
